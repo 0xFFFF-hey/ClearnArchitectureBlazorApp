@@ -1,0 +1,17 @@
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.Plugins.InMemory.deps.json
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.Plugins.InMemory.dll
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.Plugins.InMemory.pdb
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.CoreBusiness.dll
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.UseCases.dll
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.UseCases.pdb
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\bin\Debug\net8.0\IMS.CoreBusiness.pdb
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.csproj.AssemblyReference.cache
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.AssemblyInfoInputs.cache
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.AssemblyInfo.cs
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.csproj.CoreCompileInputs.cache
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plug.DF2EEC9E.Up2Date
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.dll
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\refint\IMS.Plugins.InMemory.dll
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\IMS.Plugins.InMemory.pdb
+D:\.NET Projects\IMS\IMS.Plugins\IMS.Plugins.InMemory\obj\Debug\net8.0\ref\IMS.Plugins.InMemory.dll

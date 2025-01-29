@@ -1,0 +1,15 @@
+D:\.NET Projects\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.UseCases.deps.json
+D:\.NET Projects\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.UseCases.dll
+D:\.NET Projects\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.UseCases.pdb
+D:\.NET Projects\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.CoreBusiness.dll
+D:\.NET Projects\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.CoreBusiness.pdb
+D:\.NET Projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.csproj.AssemblyReference.cache
+D:\.NET Projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.AssemblyInfoInputs.cache
+D:\.NET Projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.AssemblyInfo.cs
+D:\.NET Projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.csproj.CoreCompileInputs.cache
+D:\.NET Projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseC.984B1879.Up2Date
+D:\.NET Projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.dll
+D:\.NET Projects\IMS\IMS.UseCases\obj\Debug\net8.0\refint\IMS.UseCases.dll
+D:\.NET Projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.pdb
+D:\.NET Projects\IMS\IMS.UseCases\obj\Debug\net8.0\ref\IMS.UseCases.dll
