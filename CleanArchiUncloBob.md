@@ -13,4 +13,19 @@ The chapter introduces three key principles for organizing components:
     * "The granule of reuse is the granule of release."
     * Components must be versioned and released as a unit.
     * Users of a component should depend on a specific version, ensuring stability and compatibility.
-  - 
+  - Common Closure Principle (CCP):
+    * "Gather into components those classes that change for the same reasons and at the same times."
+    * Similar to the Single Responsibility Principle (SRP) but at the component level.
+    * Reduces the impact of changes by localizing them to specific components.
+  - Common Reuse Principle (CRP):
+    * "Don’t force users of a component to depend on things they don’t need."
+    * Avoids unnecessary dependencies by ensuring that components contain only related classes.
+    * Promotes high cohesion within components.
+### 4. Tension Between Principles
+- REP, CCP, and CRP often conflict with each other:
+  * REP and CCP encourage larger components for reuse and maintainability.
+  * CRP encourages smaller components to avoid unnecessary dependencies.
+
+- The balance between these principles depends on the stage of the project:
+  * Early stages: Focus on CCP to minimize the impact of changes.
+  * Later stages: Shift toward REP and CRP to improve reusability and reduce coupling.
