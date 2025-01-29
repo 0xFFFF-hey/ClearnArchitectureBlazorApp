@@ -29,3 +29,11 @@ The chapter introduces three key principles for organizing components:
 - The balance between these principles depends on the stage of the project:
   * Early stages: Focus on CCP to minimize the impact of changes.
   * Later stages: Shift toward REP and CRP to improve reusability and reduce coupling.
+### 5. Practical Implications
+- Use package managers for dependency management.
+- Regularly refactor components to align with principles.
+
+### 6. Key Takeaways
+- Components are key to modularity and reusability.
+- REP, CCP, and CRP guide effective component design.
+- Balance principles based on project needs.
