@@ -24,7 +24,17 @@ namespace IMS.Plugins.InMemory
 
         }
 
-        public async Task<IEnumerable<Inventory>> GetInventoriesByNameAsync(string name)
+		public Task AddInventoryAsync(Inventory inventory)
+		{
+			if (inventory == null)
+				throw new ArgumentNullException(nameof(inventory));
+			if (_inventories.Any(x => x.InventoryId == inventory.InventoryId))
+				throw new Exception("Inventory ID must be unique.");
+			_inventories.Add(inventory);
+			return Task.CompletedTask;
+		}
+
+		public async Task<IEnumerable<Inventory>> GetInventoriesByNameAsync(string name)
         {
             if(string.IsNullOrEmpty(name)) return await Task.FromResult(_inventories);
             return _inventories.Where(x => x.InventoryName.Contains(name, 

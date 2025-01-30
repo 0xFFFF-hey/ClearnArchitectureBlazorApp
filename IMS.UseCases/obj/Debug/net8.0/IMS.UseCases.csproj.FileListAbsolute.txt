@@ -13,3 +13,4 @@ D:\.NET Projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.dll
 D:\.NET Projects\IMS\IMS.UseCases\obj\Debug\net8.0\refint\IMS.UseCases.dll
 D:\.NET Projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.pdb
 D:\.NET Projects\IMS\IMS.UseCases\obj\Debug\net8.0\ref\IMS.UseCases.dll
+D:\.NET Projects\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.sourcelink.json
