@@ -37,3 +37,12 @@ The chapter introduces three key principles for organizing components:
 - Components are key to modularity and reusability.
 - REP, CCP, and CRP guide effective component design.
 - Balance principles based on project needs.
+
+# Part V
+## Chapter 22 : The Clean Architecture 
+![image](https://github.com/user-attachments/assets/16155197-7725-4304-9ed4-5a45692f39d4)
+### THE	DEPENDENCY RULE
+ Source	code	dependencies	must	point	only	inward,	toward	higher-level	policies.
+### ENTITIES
+  - They	are	the	least	likely	to	change	when something	external	changes.
+  - No	operational	change	to any	particular	application	should	affect	the	entity	layer.
