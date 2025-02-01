@@ -46,3 +46,6 @@ The chapter introduces three key principles for organizing components:
 ### ENTITIES
   - They	are	the	least	likely	to	change	when something	external	changes.
   - No	operational	change	to any	particular	application	should	affect	the	entity	layer.
+###  USE	CASES
+  - The	software	in	the	use	cases	layer	contains	application-specific	business	rules. It	encapsulates	and	implements	all	of	the	use	cases	of	the	system.
+  - We	do	not	expect	changes	in	this	layer	to	affect	the	entities.	We	also	do	not expect	this	layer	to	be	affected	by	changes	to	externalities	such	as	the	database, the	UI,	or	any	of	the	common	frameworks.	The	use	cases	layer	is	isolated	from such	concerns
