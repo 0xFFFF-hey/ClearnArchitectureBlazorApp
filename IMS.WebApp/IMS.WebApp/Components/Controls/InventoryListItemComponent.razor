@@ -1,5 +1,4 @@
-﻿@using IMS.CoreBusiness
-@if(this.Inventory is not null)
+﻿@if(this.Inventory is not null)
 {
 	<tr>
 		<td>@Inventory.InventoryName</td>
@@ -17,5 +16,4 @@
 
 @code {
 	public Inventory? Inventory { get; set; }
-
 }
