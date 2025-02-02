@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using IMS.CoreBusiness.Enums;
 
-namespace IMS.CoreBusiness
+namespace IMS.CoreBusiness.Aggregates
 {
     public class InventoryTransaction
     {

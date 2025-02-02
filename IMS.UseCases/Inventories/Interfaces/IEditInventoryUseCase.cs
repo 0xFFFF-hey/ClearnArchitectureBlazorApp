@@ -1,4 +1,4 @@
-﻿using IMS.CoreBusiness;
+﻿using IMS.CoreBusiness.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace IMS.UseCases.Inventories.Interfaces
 {
-	internal interface IEditInventoryUseCase
+    public interface IEditInventoryUseCase
 	{
 		Task ExecuteAsync(Inventory inventory);
 	}

@@ -8,6 +8,9 @@ namespace IMS.CoreBusiness.Exceptions
 {
     public class InsufficientInventoryException : Exception
     {
-        public InsufficientInventoryException(string message) : base(message) { }
+        public InsufficientInventoryException(string message) : base(message) 
+        { 
+            
+        }
     }
 }

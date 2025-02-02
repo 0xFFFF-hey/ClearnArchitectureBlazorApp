@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IMS.CoreBusiness
+namespace IMS.CoreBusiness.ValueObjects
 {
     public record Money(double Amount, string Currency)
     {

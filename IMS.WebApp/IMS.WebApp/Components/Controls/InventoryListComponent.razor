@@ -28,9 +28,9 @@
 					<td>@inv.Quantity</td>
 					<td>@inv.Price.ToString("c")</td>
 					<td>
-						<button
-							type="button"
-							class="btn btn-light">
+						<button type="button"
+								class="btn btn-light"
+								@onclick="() => ShowEditModal(inv)">
 							Edit
 						</button>
 					</td>
@@ -41,11 +41,38 @@
 	</tbody>
 </table>
 
+@if (showEditModal)
+{
+	<EditInventory SelectedInventory="@selectedInventory"
+				   OnClose="CloseEditModal" />
+}
 
 @code {
 	private List<Inventory>? inventories;
+	private bool showEditModal = false;
+	private Inventory selectedInventory = new();
+
 	protected override async Task OnInitializedAsync()
 	{
 		inventories = (await ViewInventoriesByNameUseCase.ExecuteAsync()).ToList();
+	}
+
+	private void ShowEditModal(Inventory inventory)
+	{
+		selectedInventory = new Inventory
+			{
+				InventoryId = inventory.InventoryId,
+				InventoryName = inventory.InventoryName,
+				Quantity = inventory.Quantity,
+				Price = inventory.Price
+			};
+		showEditModal = true;
+	}
+
+	private void CloseEditModal()
+	{
+		showEditModal = false;
+		// Refresh the list after editing
+		//OnInitializedAsync();
 	}
 }

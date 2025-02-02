@@ -1,4 +1,4 @@
-﻿using IMS.CoreBusiness;
+﻿using IMS.CoreBusiness.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;

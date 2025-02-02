@@ -4,11 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IMS.CoreBusiness
+namespace IMS.CoreBusiness.Enums
 {
-    public enum TransactionType
+    public enum InventoryStatus
     {
-        PurchaseInventory,
-        ConsumeInventory
+        InStock,
+        OutOfStock,
+        LowStock
     }
 }

@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMS.WebApp", "IMS.WebApp\IMS.WebApp.csproj", "{F6E6355C-B1FE-42F7-9C25-A76293DADE39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IMS.WebApp", "IMS.WebApp\IMS.WebApp.csproj", "{F6E6355C-B1FE-42F7-9C25-A76293DADE39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMS.UseCases", "..\IMS.UseCases\IMS.UseCases.csproj", "{6CB23F1C-9BFF-4A1D-BDD9-7340BEAAF1FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IMS.UseCases", "..\IMS.UseCases\IMS.UseCases.csproj", "{6CB23F1C-9BFF-4A1D-BDD9-7340BEAAF1FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMS.CoreBusiness", "..\IMS.CoreBusiness\IMS.CoreBusiness.csproj", "{EDE04CBF-7DA5-41D0-BC38-54588D30109D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IMS.CoreBusiness", "..\IMS.CoreBusiness\IMS.CoreBusiness.csproj", "{EDE04CBF-7DA5-41D0-BC38-54588D30109D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IMS.Plugins", "IMS.Plugins", "{3E68EB81-755D-4B1A-B657-66A60EF9CA9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMS.Plugins.InMemory", "..\IMS.Plugins\IMS.Plugins.InMemory\IMS.Plugins.InMemory.csproj", "{EEDDDA5A-D4E3-4362-81E9-365E2200FC80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IMS.Plugins.InMemory", "..\IMS.Plugins\IMS.Plugins.InMemory\IMS.Plugins.InMemory.csproj", "{EEDDDA5A-D4E3-4362-81E9-365E2200FC80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

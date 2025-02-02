@@ -1,0 +1,46 @@
+﻿@page "/edit-inventory"
+@inject IEditInventoryUseCase EditInventoryUseCase
+
+<h3>Edit Inventory</h3>
+
+<EditForm Model="@SelectedInventory" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label for="inventoryName">Name</label>
+        <InputText id="inventoryName" class="form-control" @bind-Value="SelectedInventory.InventoryName" />
+    </div>
+
+    <div class="form-group">
+        <label for="quantity">Quantity</label>
+        <InputNumber id="quantity" class="form-control" @bind-Value="SelectedInventory.Quantity" />
+    </div>
+
+    <div class="form-group">
+        <label for="price">Price</label>
+        <InputNumber id="price" class="form-control" @bind-Value="SelectedInventory.Price" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <button type="button" class="btn btn-secondary" @onclick="CloseModal">Cancel</button>
+</EditForm>
+
+@code {
+    [Parameter]
+    public Inventory SelectedInventory { get; set; } = new();
+
+    [Parameter]
+    public EventCallback OnClose { get; set; }
+
+    private async Task HandleValidSubmit()
+    {
+        await EditInventoryUseCase.ExecuteAsync(SelectedInventory);
+        await OnClose.InvokeAsync();
+    }
+
+    private void CloseModal()
+    {
+        OnClose.InvokeAsync();
+    }
+}

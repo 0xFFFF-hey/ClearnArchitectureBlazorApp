@@ -1,4 +1,4 @@
-﻿using IMS.CoreBusiness;
+﻿using IMS.CoreBusiness.Entities;
 using IMS.UseCases.PluginInterfaces;
 
 namespace IMS.Plugins.InMemory
