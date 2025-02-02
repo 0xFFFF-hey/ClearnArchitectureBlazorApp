@@ -37,3 +37,20 @@ The chapter introduces three key principles for organizing components:
 - Components are key to modularity and reusability.
 - REP, CCP, and CRP guide effective component design.
 - Balance principles based on project needs.
+
+# Part V
+## Chapter 22 : The Clean Architecture 
+![image](https://github.com/user-attachments/assets/16155197-7725-4304-9ed4-5a45692f39d4)
+### THE	DEPENDENCY RULE
+ Source	code	dependencies	must	point	only	inward,	toward	higher-level	policies.
+### ENTITIES
+  - They	are	the	least	likely	to	change	when something	external	changes.
+  - No	operational	change	to any	particular	application	should	affect	the	entity	layer.
+###  USE	CASES
+  - The	software	in	the	use	cases	layer	contains	application-specific	business	rules. It	encapsulates	and	implements	all	of	the	use	cases	of	the	system.
+  - We	do	not	expect	changes	in	this	layer	to	affect	the	entities.	We	also	do	not expect	this	layer	to	be	affected	by	changes	to	externalities	such	as	the	database, the	UI,	or	any	of	the	common	frameworks.	The	use	cases	layer	is	isolated	from such	concerns
+### INTERFACE	ADAPTERS
+  - The	software	in	the	interface	adapters	layer	is	a	set	of	adapters	that	convert	data from	the	format	most	convenient	for	the	use	cases	and	entities,	to	the	format most	convenient	for	some	external	agency	such	as	the	database	or	the	web.
+  - For	example,	that	will	wholly	contain	the	MVC	architecture	of	a	GUI
+###  FRAMEWORKS	AND	DRIVERS
+  -  Composed	of frameworks	and	tools	such	as	the	database	and	the	web	framework.
