@@ -22,10 +22,6 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/.NET Projects/IMS/IMS.WebApp/IMS.WebApp/Components/Controls/EditInventory.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xFZGl0SW52ZW50b3J5LnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/.NET Projects/IMS/IMS.WebApp/IMS.WebApp/Components/Controls/InventoryListComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xJbnZlbnRvcnlMaXN0Q29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
