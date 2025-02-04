@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IMS.UseCases.Inventories.DTOs
 {
-	internal class InventoryDto
+	public class InventoryDto
 	{
 		public string InventoryName { get; set; } = string.Empty;
 		public int Quantity { get; set; }

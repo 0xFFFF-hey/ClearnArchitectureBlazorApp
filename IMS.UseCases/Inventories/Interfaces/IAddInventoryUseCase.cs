@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace IMS.UseCases.Inventories.Interfaces
 {
-	internal interface IAddInventoryUseCase
+	public interface IAddInventoryUseCase
 	{
 		Task ExecuteAsync(InventoryDto inventoryDto);
 	}
