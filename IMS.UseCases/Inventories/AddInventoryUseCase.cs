@@ -13,15 +13,9 @@ namespace IMS.UseCases.Inventories
             _inventoryRepository = inventoryRepository;
 
         }
-        public Task ExecuteAsync(Inventory inventoryDto)
+		public async Task ExecuteAsync(Inventory inventory)
         {
-            var inventory = new Inventory
-            {
-                InventoryName = inventoryDto.InventoryName,
-                Quantity = inventoryDto.Quantity,
-                Price = inventoryDto.Price
-            };
-            return _inventoryRepository.AddInventoryAsync(inventory);
+            await this._inventoryRepository.AddInventoryAsync(inventory);
         }
     }
 }
