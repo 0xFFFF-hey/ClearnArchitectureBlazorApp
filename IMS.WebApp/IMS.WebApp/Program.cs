@@ -10,6 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 builder.Services.AddSingleton<IInventoryRepository, InventoryRepository>();
+builder.Services.AddTransient<IAddInventoryUseCase, AddInventoryUseCase>();
 builder.Services.AddTransient<IViewInventoriesByNameUseCase, ViewInventoriesByNameUseCase>();
 var app = builder.Build();
 

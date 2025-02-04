@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IMS.UseCases")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e1667ae8552ada276e7ceca531a09db7f546aed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0943b9865b5aae4b5952173c20c185f25862b5e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("IMS.UseCases")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IMS.UseCases")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

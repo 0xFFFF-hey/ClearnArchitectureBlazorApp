@@ -11,6 +11,6 @@ namespace IMS.UseCases.Inventories.Interfaces
 {
 	public interface IAddInventoryUseCase
 	{
-		Task ExecuteAsync(Inventory inventoryDto);
+		Task ExecuteAsync(Inventory inventory);
 	}
 }
