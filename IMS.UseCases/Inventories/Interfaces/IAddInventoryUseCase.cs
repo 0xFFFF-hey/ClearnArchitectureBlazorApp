@@ -1,4 +1,5 @@
 ﻿using IMS.CoreBusiness;
+using IMS.CoreBusiness.Entities;
 using IMS.UseCases.Inventories.DTOs;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,6 @@ namespace IMS.UseCases.Inventories.Interfaces
 {
 	public interface IAddInventoryUseCase
 	{
-		Task ExecuteAsync(InventoryDto inventoryDto);
+		Task ExecuteAsync(Inventory inventoryDto);
 	}
 }

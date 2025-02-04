@@ -13,7 +13,7 @@ namespace IMS.UseCases.Inventories
             _inventoryRepository = inventoryRepository;
 
         }
-        public Task ExecuteAsync(InventoryDto inventoryDto)
+        public Task ExecuteAsync(Inventory inventoryDto)
         {
             var inventory = new Inventory
             {
