@@ -12,7 +12,8 @@
 			<th>Name</th>
 			<th>Quantity</th>
 			<th>Price</th>
-			<th>Name</th>
+			<th></th>
+			<th style="text-align:left"></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -20,17 +21,7 @@
 		{
 			foreach (var inv in inventories)
 			{
-				<tr>
-					<td>@inv.InventoryName</td>
-					<td>@inv.Quantity</td>
-					<td>@inv.Price.ToString("c")</td>
-					<td>
-						<button class="btn btn-light">
-							Edit
-						</button>
-					</td>
-
-				</tr>
+				<InventoryListItemComponent Inventory="inv"></InventoryListItemComponent>
 			}
 		}
 	</tbody>

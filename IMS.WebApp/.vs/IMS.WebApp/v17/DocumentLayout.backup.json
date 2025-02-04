@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{F6E6355C-B1FE-42F7-9C25-A76293DADE39}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\controls\\inventorylistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F6E6355C-B1FE-42F7-9C25-A76293DADE39}|IMS.WebApp\\IMS.WebApp.csproj|d:\\.net projects\\ims\\ims.webapp\\ims.webapp\\components\\controls\\inventorylistitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6E6355C-B1FE-42F7-9C25-A76293DADE39}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\controls\\inventorylistitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E6355C-B1FE-42F7-9C25-A76293DADE39}|IMS.WebApp\\IMS.WebApp.csproj|d:\\.net projects\\ims\\ims.webapp\\ims.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E6355C-B1FE-42F7-9C25-A76293DADE39}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EDE04CBF-7DA5-41D0-BC38-54588D30109D}|..\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj|d:\\.net projects\\ims\\ims.corebusiness\\entities\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -16,14 +24,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F6E6355C-B1FE-42F7-9C25-A76293DADE39}|IMS.WebApp\\IMS.WebApp.csproj|d:\\.net projects\\ims\\ims.webapp\\ims.webapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6E6355C-B1FE-42F7-9C25-A76293DADE39}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E6355C-B1FE-42F7-9C25-A76293DADE39}|IMS.WebApp\\IMS.WebApp.csproj|d:\\.net projects\\ims\\ims.webapp\\ims.webapp\\components\\controls\\editinventory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6E6355C-B1FE-42F7-9C25-A76293DADE39}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\controls\\editinventory.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E6355C-B1FE-42F7-9C25-A76293DADE39}|IMS.WebApp\\IMS.WebApp.csproj|d:\\.net projects\\ims\\ims.webapp\\ims.webapp\\components\\controls\\inventorylistitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6E6355C-B1FE-42F7-9C25-A76293DADE39}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\controls\\inventorylistitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6E6355C-B1FE-42F7-9C25-A76293DADE39}|IMS.WebApp\\IMS.WebApp.csproj|d:\\.net projects\\ims\\ims.webapp\\ims.webapp\\components\\pages\\inventories\\inventorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,10 +66,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F6E6355C-B1FE-42F7-9C25-A76293DADE39}|IMS.WebApp\\IMS.WebApp.csproj|d:\\.net projects\\ims\\ims.webapp\\ims.webapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6E6355C-B1FE-42F7-9C25-A76293DADE39}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E6355C-B1FE-42F7-9C25-A76293DADE39}|IMS.WebApp\\IMS.WebApp.csproj|d:\\.net projects\\ims\\ims.webapp\\ims.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E6355C-B1FE-42F7-9C25-A76293DADE39}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CB23F1C-9BFF-4A1D-BDD9-7340BEAAF1FC}|..\\IMS.UseCases\\IMS.UseCases.csproj|d:\\.net projects\\ims\\ims.usecases\\inventories\\interfaces\\iviewinventoriesbynameusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -151,35 +147,9 @@
               "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Controls\\InventoryListComponent.razor",
               "ToolTip": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Controls\\InventoryListComponent.razor",
               "RelativeToolTip": "IMS.WebApp\\Components\\Controls\\InventoryListComponent.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-30T20:39:52.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Home.razor",
-              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Pages\\Home.razor",
-              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "IMS.WebApp\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T18:22:17.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "IMS.WebApp\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T00:47:29.394Z",
               "EditorCaption": ""
             },
             {
@@ -192,8 +162,7 @@
               "RelativeToolTip": "IMS.WebApp\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T00:47:25.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T00:47:25.582Z"
             },
             {
               "$type": "Document",
@@ -205,21 +174,7 @@
               "RelativeToolTip": "IMS.WebApp\\Components\\Pages\\Inventories\\InventoryList.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-30T21:06:24.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EditInventory.razor",
-              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Controls\\EditInventory.razor",
-              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Controls\\EditInventory.razor",
-              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Controls\\EditInventory.razor",
-              "RelativeToolTip": "IMS.WebApp\\Components\\Controls\\EditInventory.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-02T18:31:30.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T21:06:24.939Z"
             },
             {
               "$type": "Document",
@@ -231,12 +186,11 @@
               "RelativeToolTip": "..\\IMS.UseCases\\Inventories\\Interfaces\\IEditInventoryUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T21:14:24.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T21:14:24.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Error.razor",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Pages\\Error.razor",
@@ -244,12 +198,11 @@
               "RelativeToolTip": "IMS.WebApp\\Components\\Pages\\Error.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T18:26:31.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T18:26:31.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Counter.razor",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Pages\\Counter.razor",
@@ -257,12 +210,11 @@
               "RelativeToolTip": "IMS.WebApp\\Components\\Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T00:45:24.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T00:45:24.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Inventory.cs",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.CoreBusiness\\Entities\\Inventory.cs",
               "RelativeDocumentMoniker": "..\\IMS.CoreBusiness\\Entities\\Inventory.cs",
@@ -270,8 +222,7 @@
               "RelativeToolTip": "..\\IMS.CoreBusiness\\Entities\\Inventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:30:19.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T18:30:19.808Z"
             },
             {
               "$type": "Document",
@@ -283,103 +234,24 @@
               "RelativeToolTip": "IMS.WebApp\\Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T17:52:15.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T17:52:15.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "InventoryListItemComponent.razor",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Controls\\InventoryListItemComponent.razor",
               "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Controls\\InventoryListItemComponent.razor",
               "ToolTip": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Controls\\InventoryListItemComponent.razor",
               "RelativeToolTip": "IMS.WebApp\\Components\\Controls\\InventoryListItemComponent.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-30T21:06:50.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\_Imports.razor",
-              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\_Imports.razor",
-              "RelativeToolTip": "IMS.WebApp\\Components\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T18:22:12.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EditInventoryUseCase.cs",
-              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\EditInventoryUseCase.cs",
-              "RelativeDocumentMoniker": "..\\IMS.UseCases\\Inventories\\EditInventoryUseCase.cs",
-              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\EditInventoryUseCase.cs",
-              "RelativeToolTip": "..\\IMS.UseCases\\Inventories\\EditInventoryUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T21:16:20.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DeleteInventoryUseCase.cs",
-              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\DeleteInventoryUseCase.cs",
-              "RelativeDocumentMoniker": "..\\IMS.UseCases\\Inventories\\DeleteInventoryUseCase.cs",
-              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\DeleteInventoryUseCase.cs",
-              "RelativeToolTip": "..\\IMS.UseCases\\Inventories\\DeleteInventoryUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T21:17:12.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ViewInventoriesByNameUseCase.cs",
-              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\ViewInventoriesByNameUseCase.cs",
-              "RelativeDocumentMoniker": "..\\IMS.UseCases\\Inventories\\ViewInventoriesByNameUseCase.cs",
-              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\ViewInventoriesByNameUseCase.cs",
-              "RelativeToolTip": "..\\IMS.UseCases\\Inventories\\ViewInventoriesByNameUseCase.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:30:36.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IAddInventoryUseCase.cs",
-              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\Interfaces\\IAddInventoryUseCase.cs",
-              "RelativeDocumentMoniker": "..\\IMS.UseCases\\Inventories\\Interfaces\\IAddInventoryUseCase.cs",
-              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\Interfaces\\IAddInventoryUseCase.cs",
-              "RelativeToolTip": "..\\IMS.UseCases\\Inventories\\Interfaces\\IAddInventoryUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T20:59:16.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AddInventoryUseCase.cs",
-              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\AddInventoryUseCase.cs",
-              "RelativeDocumentMoniker": "..\\IMS.UseCases\\Inventories\\AddInventoryUseCase.cs",
-              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\AddInventoryUseCase.cs",
-              "RelativeToolTip": "..\\IMS.UseCases\\Inventories\\AddInventoryUseCase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T20:59:56.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Program.cs",
               "RelativeDocumentMoniker": "IMS.WebApp\\Program.cs",
@@ -392,7 +264,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 8,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T00:47:29.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T18:22:17.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\_Imports.razor",
+              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T18:22:12.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditInventoryUseCase.cs",
+              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\EditInventoryUseCase.cs",
+              "RelativeDocumentMoniker": "..\\IMS.UseCases\\Inventories\\EditInventoryUseCase.cs",
+              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\EditInventoryUseCase.cs",
+              "RelativeToolTip": "..\\IMS.UseCases\\Inventories\\EditInventoryUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:16:20.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteInventoryUseCase.cs",
+              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\DeleteInventoryUseCase.cs",
+              "RelativeDocumentMoniker": "..\\IMS.UseCases\\Inventories\\DeleteInventoryUseCase.cs",
+              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\DeleteInventoryUseCase.cs",
+              "RelativeToolTip": "..\\IMS.UseCases\\Inventories\\DeleteInventoryUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:17:12.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewInventoriesByNameUseCase.cs",
+              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\ViewInventoriesByNameUseCase.cs",
+              "RelativeDocumentMoniker": "..\\IMS.UseCases\\Inventories\\ViewInventoriesByNameUseCase.cs",
+              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\ViewInventoriesByNameUseCase.cs",
+              "RelativeToolTip": "..\\IMS.UseCases\\Inventories\\ViewInventoriesByNameUseCase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T18:30:36.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAddInventoryUseCase.cs",
+              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\Interfaces\\IAddInventoryUseCase.cs",
+              "RelativeDocumentMoniker": "..\\IMS.UseCases\\Inventories\\Interfaces\\IAddInventoryUseCase.cs",
+              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\Interfaces\\IAddInventoryUseCase.cs",
+              "RelativeToolTip": "..\\IMS.UseCases\\Inventories\\Interfaces\\IAddInventoryUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T20:59:16.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddInventoryUseCase.cs",
+              "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\AddInventoryUseCase.cs",
+              "RelativeDocumentMoniker": "..\\IMS.UseCases\\Inventories\\AddInventoryUseCase.cs",
+              "ToolTip": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\AddInventoryUseCase.cs",
+              "RelativeToolTip": "..\\IMS.UseCases\\Inventories\\AddInventoryUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T20:59:56.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "IViewInventoriesByNameUseCase.cs",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\Interfaces\\IViewInventoriesByNameUseCase.cs",
               "RelativeDocumentMoniker": "..\\IMS.UseCases\\Inventories\\Interfaces\\IViewInventoriesByNameUseCase.cs",
@@ -400,12 +368,11 @@
               "RelativeToolTip": "..\\IMS.UseCases\\Inventories\\Interfaces\\IViewInventoriesByNameUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:30:27.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T18:30:27.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "IDeleteInventoryUseCase.cs",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\Interfaces\\IDeleteInventoryUseCase.cs",
               "RelativeDocumentMoniker": "..\\IMS.UseCases\\Inventories\\Interfaces\\IDeleteInventoryUseCase.cs",
@@ -413,12 +380,11 @@
               "RelativeToolTip": "..\\IMS.UseCases\\Inventories\\Interfaces\\IDeleteInventoryUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T21:14:36.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T21:14:36.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "Money.cs",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.CoreBusiness\\ValueObjects\\Money.cs",
               "RelativeDocumentMoniker": "..\\IMS.CoreBusiness\\ValueObjects\\Money.cs",
@@ -426,12 +392,11 @@
               "RelativeToolTip": "..\\IMS.CoreBusiness\\ValueObjects\\Money.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T18:17:30.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T18:17:30.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "InventoryTransaction.cs",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.CoreBusiness\\Aggregates\\InventoryTransaction.cs",
               "RelativeDocumentMoniker": "..\\IMS.CoreBusiness\\Aggregates\\InventoryTransaction.cs",
@@ -439,12 +404,11 @@
               "RelativeToolTip": "..\\IMS.CoreBusiness\\Aggregates\\InventoryTransaction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T18:19:17.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T18:19:17.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.CoreBusiness\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "..\\IMS.CoreBusiness\\Entities\\Product.cs",
@@ -452,12 +416,11 @@
               "RelativeToolTip": "..\\IMS.CoreBusiness\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T18:15:35.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T18:15:35.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "InsufficientInventoryException.cs",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.CoreBusiness\\Exceptions\\InsufficientInventoryException.cs",
               "RelativeDocumentMoniker": "..\\IMS.CoreBusiness\\Exceptions\\InsufficientInventoryException.cs",
@@ -465,12 +428,11 @@
               "RelativeToolTip": "..\\IMS.CoreBusiness\\Exceptions\\InsufficientInventoryException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T18:20:44.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T18:20:44.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "TransactionType.cs",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.CoreBusiness\\Enums\\TransactionType.cs",
               "RelativeDocumentMoniker": "..\\IMS.CoreBusiness\\Enums\\TransactionType.cs",
@@ -478,12 +440,11 @@
               "RelativeToolTip": "..\\IMS.CoreBusiness\\Enums\\TransactionType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T18:19:34.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T18:19:34.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "InventoryStatus.cs",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.CoreBusiness\\Enums\\InventoryStatus.cs",
               "RelativeDocumentMoniker": "..\\IMS.CoreBusiness\\Enums\\InventoryStatus.cs",
@@ -491,12 +452,11 @@
               "RelativeToolTip": "..\\IMS.CoreBusiness\\Enums\\InventoryStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T18:23:02.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T18:23:02.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "IMS.UseCases.csproj",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
               "RelativeDocumentMoniker": "..\\IMS.UseCases\\IMS.UseCases.csproj",
@@ -504,12 +464,11 @@
               "RelativeToolTip": "..\\IMS.UseCases\\IMS.UseCases.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-01T21:24:24.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T21:24:24.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "IMS.WebApp.csproj",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\IMS.WebApp.csproj",
               "RelativeDocumentMoniker": "IMS.WebApp\\IMS.WebApp.csproj",
@@ -517,12 +476,11 @@
               "RelativeToolTip": "IMS.WebApp\\IMS.WebApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-01T21:24:25.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T21:24:25.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "IMS.CoreBusiness.csproj",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
               "RelativeDocumentMoniker": "..\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
@@ -530,12 +488,11 @@
               "RelativeToolTip": "..\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-01T18:16:50.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T18:16:50.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "Weather.razor",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Pages\\Weather.razor",
@@ -547,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "app.css",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "IMS.WebApp\\wwwroot\\app.css",
@@ -559,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "IInventoryRepository.cs",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.UseCases\\PluginInterfaces\\IInventoryRepository.cs",
               "RelativeDocumentMoniker": "..\\IMS.UseCases\\PluginInterfaces\\IInventoryRepository.cs",
@@ -567,12 +524,11 @@
               "RelativeToolTip": "..\\IMS.UseCases\\PluginInterfaces\\IInventoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:37:15.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T18:37:15.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "InventoryRepository.cs",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\InventoryRepository.cs",
               "RelativeDocumentMoniker": "..\\IMS.Plugins\\IMS.Plugins.InMemory\\InventoryRepository.cs",
@@ -580,12 +536,11 @@
               "RelativeToolTip": "..\\IMS.Plugins\\IMS.Plugins.InMemory\\InventoryRepository.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T18:30:14.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T18:30:14.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "IMS.Plugins.InMemory.csproj",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
               "RelativeDocumentMoniker": "..\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
@@ -593,12 +548,11 @@
               "RelativeToolTip": "..\\IMS.Plugins\\IMS.Plugins.InMemory\\IMS.Plugins.InMemory.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-01T18:14:38.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T18:14:38.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "InventoryDto.cs",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.UseCases\\Inventories\\DTOs\\InventoryDto.cs",
               "RelativeDocumentMoniker": "..\\IMS.UseCases\\Inventories\\DTOs\\InventoryDto.cs",
@@ -610,19 +564,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "IMS.WebApp",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\IMS.WebApp.csproj",
               "RelativeDocumentMoniker": "IMS.WebApp\\IMS.WebApp.csproj",
               "ToolTip": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\IMS.WebApp.csproj",
               "RelativeToolTip": "IMS.WebApp\\IMS.WebApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-01T14:50:17.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-01T14:50:17.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "Routes.razor",
               "DocumentMoniker": "D:\\.NET Projects\\IMS\\IMS.WebApp\\IMS.WebApp\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Routes.razor",

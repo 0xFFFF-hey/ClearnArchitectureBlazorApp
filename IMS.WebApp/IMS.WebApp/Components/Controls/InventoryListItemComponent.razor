@@ -5,15 +5,24 @@
 		<td>@Inventory.Quantity</td>
 		<td>@Inventory.Price.ToString("c")</td>
 		<td>
-			<button type="button"
-					class="btn btn-light">
+			<a class="btn btn-light"
+			   href="">
 				Edit
-			</button>
+			</a>
 		</td>
+		<td>
+			<EditForm Enhance="true" Model="Inventory"
+					  FormName="@($"form-delete-inventory-{Inventory.InventoryId}")">
+				<button type="submit" class="btn btn-light">Delete</button>
+			</EditForm>
+		</td>
+
+
 	</tr>
 }
 
 
 @code {
+	[Parameter]
 	public Inventory? Inventory { get; set; }
 }
