@@ -1,0 +1,36 @@
+﻿@inject IViewProductsByNameUseCase ViewProductsByNameUseCase
+
+<PageTitle>Products Page</PageTitle>
+
+<h1>List of Products</h1>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Quantity</th>
+			<th>Price</th>
+			<th></th>
+			<th style="text-align:left"></th>
+		</tr>
+	</thead>
+	<tbody>
+		@if (Products is not null && Products.Count > 0)
+		{
+			foreach (var inv in Products)
+			{
+				<ProductListItemComponent Product="inv"></ProductListItemComponent>
+			}
+		}
+	</tbody>
+</table>
+
+@code {
+	private List<Product>? Products;
+	private Product selectedProduct = new();
+
+	protected override async Task OnInitializedAsync()
+	{
+		Products = (await ViewProductsByNameUseCase.ExecuteAsync()).ToList();
+	}
+}

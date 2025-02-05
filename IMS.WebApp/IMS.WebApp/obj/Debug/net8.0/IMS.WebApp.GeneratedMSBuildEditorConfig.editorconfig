@@ -30,6 +30,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xJbnZlbnRvcnlMaXN0SXRlbUNvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/.NET Projects/IMS/IMS.WebApp/IMS.WebApp/Components/Controls/ProductListComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xQcm9kdWN0TGlzdENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.NET Projects/IMS/IMS.WebApp/IMS.WebApp/Components/Controls/ProductListItemComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xQcm9kdWN0TGlzdEl0ZW1Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/.NET Projects/IMS/IMS.WebApp/IMS.WebApp/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -52,6 +60,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/.NET Projects/IMS/IMS.WebApp/IMS.WebApp/Components/Pages/Inventories/InventoryList.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbnZlbnRvcmllc1xJbnZlbnRvcnlMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.NET Projects/IMS/IMS.WebApp/IMS.WebApp/Components/Pages/Products/AddProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0c1xBZGRQcm9kdWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.NET Projects/IMS/IMS.WebApp/IMS.WebApp/Components/Pages/Products/ProductList.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0c1xQcm9kdWN0TGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/.NET Projects/IMS/IMS.WebApp/IMS.WebApp/Components/Pages/Weather.razor]
