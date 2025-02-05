@@ -53,5 +53,10 @@ namespace IMS.Plugins.InMemory
 		{
 			throw new NotImplementedException();
 		}
+
+		public async Task<Inventory> GetInventoriesByIdAsync(int inventoryId)
+		{
+			return await Task.FromResult(_inventories.First(x => x.InventoryId == inventoryId));
+		}
 	}
 }
