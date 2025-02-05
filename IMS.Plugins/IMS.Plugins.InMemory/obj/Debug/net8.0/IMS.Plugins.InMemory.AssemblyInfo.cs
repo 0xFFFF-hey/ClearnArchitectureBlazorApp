@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IMS.Plugins.InMemory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+344d09c86bb3d4d197b50d65d5bd94ac05b6941c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0943b9865b5aae4b5952173c20c185f25862b5e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("IMS.Plugins.InMemory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IMS.Plugins.InMemory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
