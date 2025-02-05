@@ -1,4 +1,6 @@
-﻿using IMS.UseCases.Inventories.Interfaces;
+﻿using IMS.CoreBusiness.Entities;
+using IMS.UseCases.Inventories.Interfaces;
+using IMS.UseCases.PluginInterfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,11 +9,17 @@ using System.Threading.Tasks;
 
 namespace IMS.UseCases.Inventories
 {
-	internal class DeleteInventoryUseCase : IDeleteInventoryUseCase
+	public class DeleteInventoryUseCase : IDeleteInventoryUseCase
 	{
-		public Task ExecuteAsync(int id)
+		private readonly IInventoryRepository inventoryRepository;
+		public DeleteInventoryUseCase(IInventoryRepository inventoryRepository)
 		{
-			throw new NotImplementedException();
+			this.inventoryRepository = inventoryRepository;
+
+		}
+		public async Task ExecuteAsync(int inventoryId)
+		{
+			await this.inventoryRepository.DeleteInventoryByIdAsync(inventoryId);
 		}
 	}
 }

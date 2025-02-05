@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace IMS.UseCases.Inventories.Interfaces
 {
-	internal interface IDeleteInventoryUseCase
+	public interface IDeleteInventoryUseCase
 	{
-		Task ExecuteAsync(int id);
+		Task ExecuteAsync(int inventoryId);
 	}
 }

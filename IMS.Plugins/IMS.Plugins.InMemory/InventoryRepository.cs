@@ -61,9 +61,15 @@ namespace IMS.Plugins.InMemory
 			return Task.CompletedTask;
 		}
 
-		public Task DeleteInventoryAsync(int id)
+		public Task DeleteInventoryByIdAsync(int inventoryId)
 		{
-			throw new NotImplementedException();
+			var inventory = _inventories.FirstOrDefault(x => x.InventoryId == inventoryId);
+			if (inventory != null)
+			{
+				_inventories.Remove(inventory);
+			}
+
+			return Task.CompletedTask;
 		}
 
 		public async Task<Inventory> GetInventoriesByIdAsync(int inventoryId)
