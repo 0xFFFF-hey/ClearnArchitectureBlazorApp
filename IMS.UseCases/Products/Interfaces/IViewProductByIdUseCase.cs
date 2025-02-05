@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace IMS.UseCases.Products.Interfaces
 {
-	internal interface IViewProductByIdUseCase
+	public interface IViewProductByIdUseCase
 	{
 		Task<Product?> ExecuteAsync(int productId);
 	}
