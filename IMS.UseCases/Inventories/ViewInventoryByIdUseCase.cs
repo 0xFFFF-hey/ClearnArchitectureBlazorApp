@@ -10,10 +10,10 @@ using System.Xml.Linq;
 
 namespace IMS.UseCases.Inventories
 {
-	internal class ViewInventoriesByIdUseCase : IViewInventoriesByIdUseCase
+	public class ViewInventoryByIdUseCase : IViewInventoryByIdUseCase
 	{
 		private readonly IInventoryRepository inventoryRepository;
-        public ViewInventoriesByIdUseCase(IInventoryRepository inventoryRepository)
+        public ViewInventoryByIdUseCase(IInventoryRepository inventoryRepository)
         {
 			this.inventoryRepository = inventoryRepository;
 

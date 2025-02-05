@@ -1,5 +1,6 @@
 ﻿using IMS.CoreBusiness.Entities;
 using IMS.UseCases.Inventories.Interfaces;
+using IMS.UseCases.PluginInterfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,11 +9,17 @@ using System.Threading.Tasks;
 
 namespace IMS.UseCases.Inventories
 {
-    internal class EditInventoryUseCase : IEditInventoryUseCase	
+    public class EditInventoryUseCase : IEditInventoryUseCase	
 	{
-		public Task ExecuteAsync(Inventory inventory)
+		private readonly IInventoryRepository inventoryRepository;
+		public EditInventoryUseCase(IInventoryRepository inventoryRepository)
 		{
-			throw new NotImplementedException();
+			this.inventoryRepository = inventoryRepository;
+
+		}
+		public async Task ExecuteAsync(Inventory inventory)
+		{
+			await this.inventoryRepository.UpdateInventoryAsync(inventory);
 		}
 	}
 }

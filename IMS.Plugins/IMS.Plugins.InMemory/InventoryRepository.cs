@@ -46,7 +46,19 @@ namespace IMS.Plugins.InMemory
 
 		public Task UpdateInventoryAsync(Inventory inventory)
 		{
-			throw new NotImplementedException();
+			if (_inventories.Any(x => x.InventoryId != inventory.InventoryId &&
+				x.InventoryName.Equals(inventory.InventoryName, StringComparison.OrdinalIgnoreCase)))
+				return Task.CompletedTask;
+
+			var invToUpdate = _inventories.FirstOrDefault(x => x.InventoryId == inventory.InventoryId);
+			if (invToUpdate is not null)
+			{
+				invToUpdate.InventoryName = inventory.InventoryName;
+				invToUpdate.Quantity = inventory.Quantity;
+				invToUpdate.Price = inventory.Price;
+			}
+
+			return Task.CompletedTask;
 		}
 
 		public Task DeleteInventoryAsync(int id)
