@@ -13,22 +13,23 @@
 		</tr>
 	</thead>
 	<tbody>
-		@if (Products is not null && Products.Count > 0)
+		@if (products is not null && products.Count > 0)
 		{
-			foreach (var inv in Products)
+			foreach (var inv in products)
 			{
-				<ProductListItemComponent Product="inv"></ProductListItemComponent>
+				<ProductListItemComponent @rendermode="InteractiveServer" Product="inv"></ProductListItemComponent>
 			}
 		}
 	</tbody>
 </table>
 
 @code {
-	private List<Product>? Products;
-	private Product selectedProduct = new();
+	private List<Product>? products;
+	[Parameter]
+	public string? SearchProductFilter { get; set; }
 
-	protected override async Task OnInitializedAsync()
+	protected override async Task OnParametersSetAsync()
 	{
-		Products = (await ViewProductsByNameUseCase.ExecuteAsync()).ToList();
+		products = (await ViewProductsByNameUseCase.ExecuteAsync(SearchProductFilter ?? string.Empty)).ToList();
 	}
 }

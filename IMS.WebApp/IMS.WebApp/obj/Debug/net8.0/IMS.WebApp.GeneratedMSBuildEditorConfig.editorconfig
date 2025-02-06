@@ -38,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xQcm9kdWN0TGlzdEl0ZW1Db21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/.NET Projects/IMS/IMS.WebApp/IMS.WebApp/Components/Controls/SearchComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xTZWFyY2hDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/.NET Projects/IMS/IMS.WebApp/IMS.WebApp/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
