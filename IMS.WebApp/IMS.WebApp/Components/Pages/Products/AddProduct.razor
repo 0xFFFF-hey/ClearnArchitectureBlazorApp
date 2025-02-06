@@ -1,13 +1,14 @@
 ﻿@page "/addproduct"
 
-@inject IAddProductUseCase AddProductUseCase
+@inject IAddProductUseCase AddProductUseCase 
 @inject NavigationManager NavigationManager
 
-<h3>AddProduct</h3>
+<h3>Add Product</h3>
 <br />
 
 <EditForm Model="product" FormName="formProduct" OnValidSubmit="Save">
     <DataAnnotationsValidator></DataAnnotationsValidator>
+    <ValidationSummary></ValidationSummary>
 
     <div class="form-group">
         <label for="name">Product Name</label>
@@ -35,7 +36,6 @@
         </InputNumber>
         <ValidationMessage For="() => product.Price"></ValidationMessage>
     </div>
-
     <div class="form-group">
         <label for="price">Inventories</label>
         <ProductInventoriesComponent Product="this.product"></ProductInventoriesComponent>
@@ -43,8 +43,9 @@
     <br />
     <button type="submit" class="btn btn-primary">Save</button>
     &nbsp;
-    <a href="/inventories" class="btn btn-primary">Cancel</a>
+    <a href="/products" class="btn btn-primary">Cancel</a>
 </EditForm>
+
 
 @code {
     [SupplyParameterFromForm]
@@ -56,4 +57,5 @@
 
         NavigationManager.NavigateTo("/products");
     }
+
 }

@@ -1,35 +1,34 @@
 ﻿@inject IViewProductsByNameUseCase ViewProductsByNameUseCase
 
-<PageTitle>Products Page</PageTitle>
-
 <table class="table">
-	<thead>
-		<tr>
-			<th>Name</th>
-			<th>Quantity</th>
-			<th>Price</th>
-			<th></th>
-			<th style="text-align:left"></th>
-		</tr>
-	</thead>
-	<tbody>
-		@if (products is not null && products.Count > 0)
-		{
-			foreach (var inv in products)
-			{
-				<ProductListItemComponent @rendermode="InteractiveServer" Product="inv"></ProductListItemComponent>
-			}
-		}
-	</tbody>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th></th>
+            <th style="text-align:left"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (products is not null && products.Count > 0)
+        {
+            foreach (var prod in products)
+            {
+                <ProductListItemComponent @rendermode="InteractiveServer" Product="prod"></ProductListItemComponent>
+            }
+        }
+    </tbody>
 </table>
 
 @code {
-	private List<Product>? products;
-	[Parameter]
-	public string? SearchProductFilter { get; set; }
+    private List<Product>? products;
 
-	protected override async Task OnParametersSetAsync()
-	{
-		products = (await ViewProductsByNameUseCase.ExecuteAsync(SearchProductFilter ?? string.Empty)).ToList();
-	}
+    [Parameter]
+    public string? SearchProductFilter { get; set; }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        products = (await ViewProductsByNameUseCase.ExecuteAsync(SearchProductFilter ?? string.Empty)).ToList();
+    }
 }
