@@ -1,7 +1,7 @@
 # EditForm
 EditForm in Blazor is a component that simplifies form handling, validation, and model binding. It works with a model class and automatically binds form inputs to properties of that model.
 ## Basic Example of EditForm
-```c#
+```razor
 <EditForm Model="@user" OnValidSubmit="HandleValidSubmit">
     <DataAnnotationsValidator />
 
