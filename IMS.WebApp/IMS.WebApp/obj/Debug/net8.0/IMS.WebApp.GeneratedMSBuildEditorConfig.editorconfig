@@ -30,6 +30,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xJbnZlbnRvcnlMaXN0SXRlbUNvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/.NET Projects/IMS/IMS.WebApp/IMS.WebApp/Components/Controls/ProductInventoriesComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xQcm9kdWN0SW52ZW50b3JpZXNDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/.NET Projects/IMS/IMS.WebApp/IMS.WebApp/Components/Controls/ProductListComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xQcm9kdWN0TGlzdENvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -89,6 +93,10 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/.NET Projects/IMS/IMS.WebApp/IMS.WebApp/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/.NET Projects/IMS/IMS.WebApp/IMS.WebApp/Components/Controls/SearchProductInventoriesComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb250cm9sc1xTZWFyY2hQcm9kdWN0SW52ZW50b3JpZXNDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-cehmtkaaqa
 
 [D:/.NET Projects/IMS/IMS.WebApp/IMS.WebApp/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==

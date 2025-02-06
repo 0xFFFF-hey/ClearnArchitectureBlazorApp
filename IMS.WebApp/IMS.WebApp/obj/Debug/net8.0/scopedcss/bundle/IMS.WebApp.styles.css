@@ -1,3 +1,20 @@
+/* _content/IMS.WebApp/Components/Controls/SearchProductInventoriesComponent.razor.rz.scp.css */
+.search-result[b-cehmtkaaqa] {
+    overflow-y: auto;
+    max-height: 300px;
+    border: 1px solid silver;
+    padding-top: 5px;
+}
+
+div ul[b-cehmtkaaqa] {
+    list-style-type: none;
+    margin-bottom: 5px;
+    padding-left: 10px;
+}
+
+    div ul li[b-cehmtkaaqa] {
+        cursor: pointer;
+    }
 /* _content/IMS.WebApp/Components/Layout/MainLayout.razor.rz.scp.css */
 .page[b-rkfayx65e9] {
     position: relative;
