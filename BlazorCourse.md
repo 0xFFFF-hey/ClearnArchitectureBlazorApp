@@ -32,3 +32,26 @@ EditForm in Blazor is a component that simplifies form handling, validation, and
     }
 }
 ```
+# Attributes
+## [Parameter]
+used to pass values from a parent component to a child component.
+## [SupplyParameterFromForm]
+used when handling form submissions in Blazor. It tells Blazor to bind form values automatically.
+```razor
+<!-- MyFormComponent.razor -->
+<EditForm Model="@person">
+    <DataAnnotationsValidator />
+    <InputText id="name" @bind-Value="person.Name" />
+    <button type="submit">Submit</button>
+</EditForm>
+
+@code {
+    private Person person = new();
+
+    public class Person
+    {
+        [SupplyParameterFromForm]
+        public string Name { get; set; }
+    }
+}
+```
